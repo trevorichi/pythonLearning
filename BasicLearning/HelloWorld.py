@@ -1,6 +1,3 @@
-from re import A
-
-
 print("Hello World")
 
 for i in range(10):
@@ -14,5 +11,7 @@ def howDoFunctionsWork(printMe):
 a = "Hello world, but from a function"
 
 howDoFunctionsWork(a)
+
+
 
 
